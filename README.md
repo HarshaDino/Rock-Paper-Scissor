@@ -9,7 +9,7 @@ A simple and fun Rock-Paper-Scissors game built with **HTML**, **CSS**, and **Va
 - Clean and responsive UI
 
 ## 🚀 Live Demo
-[Click here to play online](#) *(Add your GitHub Pages link here once deployed)*
+[Live Game Link](https://harshadino.github.io/Rock-Paper-Scissor/)
 
 ## 🧠 What You'll Learn
 - JavaScript functions, conditions, and events
