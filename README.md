@@ -11,12 +11,6 @@ A simple and fun Rock-Paper-Scissors game built with **HTML**, **CSS**, and **Va
 ## 🚀 Live Demo
 [Live Game Link](https://harshadino.github.io/Rock-Paper-Scissor/)
 
-## 🧠 What You'll Learn
-- JavaScript functions, conditions, and events
-- DOM selection and manipulation
-- Handling user interactions
-- Basic game mechanics
-
 ## 📂 Project Structure
 ├── index.html
 ├── style.css
