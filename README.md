@@ -10,10 +10,3 @@ A simple and fun Rock-Paper-Scissors game built with **HTML**, **CSS**, and **Va
 
 ## 🚀 Live Demo
 [Live Game Link](https://harshadino.github.io/Rock-Paper-Scissor/)
-
-## 📂 Project Structure
-├── index.html
-├── style.css
-├── script.js
-├── LICENSE
-└── README.md
